@@ -8,7 +8,9 @@ The goal of this project is to develop and evaluate models that can accurately c
 To run the notebooks, use Google Colab.
 
 The project uses the UrbanSound8K dataset. UrbanSound8K is a collection of 8,732 labeled urban sound excerpts (with a length of 4.0 seconds) from 10 different classes. The dataset is ideal for training and evaluating models for urban sound classification.
+
 Dataset Details:
+
 Dataset source-kaggle
 Number of Classes: 10
 Class Labels:Air Conditioner, Car Horn, Children Playing, Dog Bark, Drilling, Engine Idling, Gunshot, Jackhammer, Siren, Street Music.
